@@ -1,4 +1,4 @@
-# Home Sweet Home: Online—Private Server
+# Home Sweet Home: LYWP Servers
 
 A private server implementation for **Home Sweet Home: Online**. This project enables players to continue playing HSHO after official server shutdown.
 
